@@ -1,11 +1,11 @@
 ---
 layout: page
 title: About
+subtitle: All about me and my life
 permalink: /about/
 date: 2020-06-29T15:36:12.231Z
-header_feature_image: /uploads/log.jpg
+header_feature_image: ../uploads/photo-1519677466127-c57393bf453b.jpg
 published: true
-subtitle: All about me and my life
 tags: null
 description: null
 show: false
