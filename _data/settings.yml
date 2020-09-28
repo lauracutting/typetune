@@ -2,10 +2,10 @@ title: typetune
 description: "A blog exploring typography used in music "
 header_text: The Visualization of Music
 footer_text: Copyright 2020 Laura Cutting
-header_feature_image: ../uploads/david-grandmougin-jragijzfcrc-unsplash.jpg
+header_feature_image: ../uploads/mick-haupt-h5ocv1tqvmy-unsplash.jpg
 bannerheight: 20vmax
 logo: /uploads/logo.jpg
 favicon: /uploads/favicon.ico
 gridlayout: false
-fixednavbar: false
+fixednavbar: true
 upzoom: true
