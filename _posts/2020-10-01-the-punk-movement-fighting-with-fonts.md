@@ -3,6 +3,7 @@ layout: post
 title: "The Punk Movement: Fighting with Fonts"
 date: 2020-10-01T14:41:43.038Z
 header_feature_image: ../uploads/cri_000000251814.jpg
+caption: "'Anarchy in the UK' by the Sex Pistols"
 comments: true
 tags:
   - Culture
