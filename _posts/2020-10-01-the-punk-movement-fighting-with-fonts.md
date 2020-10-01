@@ -2,7 +2,7 @@
 layout: post
 title: "The Punk Movement: Fighting with Fonts"
 date: 2020-10-01T14:41:43.038Z
-header_feature_image: ../uploads/punk-1-.jpg
+header_feature_image: ../uploads/jamie_reid_posters-04.jpg
 comments: true
 tags:
   - Culture
