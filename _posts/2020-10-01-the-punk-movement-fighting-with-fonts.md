@@ -2,7 +2,7 @@
 layout: post
 title: "The Punk Movement: Fighting with Fonts"
 date: 2020-10-01T14:41:43.038Z
-header_feature_image: ../uploads/picture-4.-barney-bubbles.-cover-of-ian-dury-songbook.-london-1979..jpg
+header_feature_image: ../uploads/ghbhjb.jpg
 comments: true
 tags:
   - Culture
