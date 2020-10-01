@@ -11,7 +11,7 @@ tags:
 ---
 The Punk movement, which exploded in the mid-70s, tore up the rule book, discarding minimalism and neutral sans serif typography. As traditional views were seen as being outdated, punks rebelled against the establishment, combating the political and social turbulence at the time. It brought a new age of music and fashion as well as triggering the post-modern art movement. 
 
-![](../uploads/sex-pistols-logo.png)
+![© 1000logos.net ](../uploads/sex-pistols-logo.png "The Sex Pistols' 'ransom note' style logo")
 
 Speaking as the mouthpiece of a generation, the Sex Pistols took to the stage to demand change in society. Their message, along with their outrageous behaviour and scandalous fashion, set the tone for the punk movement. Rather than the extensive process of working alongside a traditional typesetter, the band hired art student Jamie Reid to bring their vision to life. Collaging together letters from newspaper headlines and magazines, Reid formed the mismatched, homemade font which came to define the era.
 
