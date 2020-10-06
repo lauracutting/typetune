@@ -6,7 +6,7 @@ comments: true
 ---
 MTV was introduced as a 24/7 music video channel in 1981, a time when the visualization of music was still an emerging concept. The channel’s bold logo and the spotlighting of artists saw a shift in music production, providing a fresh, youthful perspective and catalysing the dominance of the music video in pop culture.
 
-The 3D 'M' comprises most of the MTV logo. Helvetica, the font used, is heavily weighted to give an impact. A high width has been used to show its stability whilst maintaining a modern feel, vital when 
+The 3D 'M' comprises most of the MTV logo. Helvetica, the font used, is heavily weighted to give an impact. A high width has been used to show its stability whilst maintaining a modern feel, vital during the launch of it as it was a new idea. 
 
 The size of the 'M' in comparison to the 'TV' demonstrates the emphasis and importance of music to the channel. This was such a vital feature at the brand's launch as broadcasting music was a revolutionary concept, it was the first television channel dedicated to music.
 
