@@ -8,4 +8,4 @@ MTV was introduced as a 24/7 music video channel in 1981, a time when the visual
 
 
 
-To complete the logo, 'TV' is scrawled across the 'M' in a fast paced graffiti style font. This link to street art is no coincidence; youth culture is at the core of their branding. The spray painted look has tones of rebellion and freedom, targeted towards their youthful audience.
+To complete the logo, 'TV' is scrawled across the 'M' in a fast paced graffiti style font. This link to street art is no coincidence; youth culture is at the core of their branding. The spray painted look has tones of rebellion and freedom, targeting their youthful audience.
