@@ -10,4 +10,4 @@ The 3D 'M' comprises most of the MTV logo. Helvetica, the font used, is heavily 
 
  
 
-To complete the logo, 'TV' is scrawled across the 'M' in a fast paced graffiti style font. This link to street art is no coincidence; youth culture is at the core of their branding. The spray painted look has tones of rebellion and freedom, targeting their youthful audience. It was a step away from traditional television, leading a 'new wave' of social change
+To complete the logo, 'TV' is scrawled across the 'M' in a fast paced graffiti style font. This link to street art is no coincidence; youth culture is at the core of their branding. The spray painted look has tones of rebellion and freedom, targeting their youthful audience. It was a step away from traditional television, leading the youth to a contemporary 'new wave' of broadcasting and social development.
