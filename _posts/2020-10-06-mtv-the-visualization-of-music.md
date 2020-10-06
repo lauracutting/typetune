@@ -12,4 +12,4 @@ The size of the 'M' in comparison to the 'TV' demonstrates the emphasis and impo
 
 To complete the logo, 'TV' is scrawled across the 'M' in a fast paced graffiti style font. This link to street art is no coincidence; youth culture is at the core of their branding. The spray painted appearance of the font has tones of rebellion and freedom, targeting MTV's youthful audience. The content was a step away from traditional television, leading the youth to a contemporary 'new wave' of broadcasting and social change.  
 
-Rather than selecting corporate colours, as other brands would, a variety of patterns and tones are used to fill the logo. The chameleon like branding still remains in use today, demonstrating its strength as a brand. Despite not
+Rather than selecting corporate colours, as other brands would, a variety of patterns and tones are used to fill the logo. The chameleon like branding still remains in use today, despite not maintaining set branding colours, MTV is still recognisable demonstrating its strength as a brand.
