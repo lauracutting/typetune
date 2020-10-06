@@ -14,4 +14,4 @@ To complete the logo, 'TV' is scrawled across the 'M' in a fast paced graffiti s
 
 Rather than selecting corporate colours, as other brands would, a variety of patterns and tones are used to fill the logo. The chameleon like branding still remains in use today, despite not maintaining set branding colours, MTV is still recognisable demonstrating its strength as a brand. 
 
-MTV spotlighted music artists for the first time encouraging more of a focus on their appearance rather than just their music. This encouraged a new movement of albums heavily featuring portraits of singers rather than the album title.
+MTV spotlighted music artists for the first time encouraging more of a focus on their appearance rather than just their music. This encouraged a new wave of album covers featuring portraits of singers rather than the album title.
