@@ -2,6 +2,7 @@
 layout: post
 title: "MTV: the Visualization of Music "
 date: 2020-10-06T11:32:22.737Z
+header_feature_image: ../uploads/0.jpg
 comments: true
 tags:
   - Music
