@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "MTV: the Visualization of Music "
+title: "MTV: How Video Killed the Radio Star"
 date: 2020-10-06T11:32:22.737Z
-header_feature_image: ../uploads/britto_revised_collection_banner_2.jpg
+header_feature_image: ../uploads/mtv-movie-tv-awards-2017-studio-moross-tv-packaging-1250x703.jpg
 comments: true
 tags:
   - Music
