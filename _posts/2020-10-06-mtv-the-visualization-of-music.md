@@ -2,7 +2,7 @@
 layout: post
 title: "MTV: How Video Killed the Radio Star"
 date: 2020-10-06T11:32:22.737Z
-header_feature_image: ../uploads/mtv-movie-tv-awards-2017-studio-moross-tv-packaging-1250x703.jpg
+header_feature_image: ../uploads/mtv-frederick-m.-brown-getty-images.png
 comments: true
 tags:
   - Music
