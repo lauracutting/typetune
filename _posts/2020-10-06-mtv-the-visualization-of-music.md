@@ -23,6 +23,6 @@ Rather than selecting corporate colours, as other brands would, a variety of pat
 
 MTV featured music artists for the first time encouraging more of a focus on their appearance rather than just their music. This encouraged a new wave of album covers spotlighting portraits of singers rather than just the album title. 
 
-![](../uploads/91i7blj8mal._ac_sl1500_.jpg)
+![](../uploads/91i7blj8mal._ac_sl1500_.jpg "Thriller by Michael Jackson, released in 1982")
 
-Scripted or handwritten font was increasingly used on the covers of albums throughout the 80s, giving music a more personal feel than before.
+Scripted or handwritten font was increasingly used on albums in the 80s, giving music a more personal feel than before. It allowed listeners to connect more with artists. Frequently a lightly weighted, cursive font was used, meaning it was harder to read from a distance. This implies that the viewer was expected to recognise the artist from their photograph on the album. This is demonstrated on the album cover of 'Thriller' by Michael Jackson, a luminious portrait of Jackson occupies the majority of the album cover, inviting in the listener.
