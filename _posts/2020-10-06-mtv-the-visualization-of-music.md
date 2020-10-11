@@ -9,7 +9,7 @@ tags:
   - Media
   - TV
 ---
-MTV was introduced as a 24/7 music video channel in 1981, a time when the visualization of music was still an emerging concept. The channel’s bold logo and the spotlighting of artists saw a shift in music production, providing a fresh, youthful perspective and catalysing the dominance of the music video in pop culture.
+MTV was introduced as a 24/7 music video channel in 1981, a time when the visualization of music was still an emerging concept. The channel’s bold logo and the spotlighting of artists saw a shift in music production, providing a fresh, youthful perspective - catalysing the dominance of the music video in pop culture.
 
 The 3D 'M' comprises most of the MTV logo. Helvetica, the font used, is heavily weighted to give an impact. A high width has been used to show its stability whilst maintaining a modern feel, vital during the launch of it as it was a new idea. 
 
@@ -25,6 +25,6 @@ MTV featured music artists for the first time encouraging more of a focus on the
 
 ![© 1996-2020, Amazon.com, Inc](../uploads/91i7blj8mal._ac_sl1500_.jpg "Thriller by Michael Jackson, released in 1982")
 
-Scripted or handwritten font was increasingly used on albums in the 80s, giving music a more personal feel than before. It allowed listeners to form a connection with artists. Frequently a lightly weighted, cursive font was used, making it more difficult to read from a distance. This implies that the viewer was expected to recognise the artist from their photograph. The dominance of portraiture on album covers is demonstrated by Michael Jackon's 'Thriller' cover, a luminious portrait of Jackson occupies the majority of the album, inviting in the listener while the title of the album is tucked into the corner.  
+Scripted or handwritten font was increasingly used on albums in the 80s, giving music a more personal feel than before. It allowed listeners to form a connection with artists. Frequently a lightly weighted, cursive font was used, making it more difficult to read from a distance. This implies that the viewer was expected to recognise the artist from their photograph. The dominance of portraiture on album covers is demonstrated by Michael Jackon's 'Thriller' cover, a luminious portrait of Jackson occupies the majority of the album, inviting in the listener while the title is tucked into the corner, written in a rushed hand scripted style.  
 
 Without the launch of MTV and their broadcasting of artists, the emphasis on image in the music industry would not have become so dominant. Their bold and youthful branding still connects with an audience today as teenagers long to explore the fun celebrity world as a form of escapism.
