@@ -25,4 +25,4 @@ MTV featured music artists for the first time encouraging more of a focus on the
 
 ![](../uploads/91i7blj8mal._ac_sl1500_.jpg)
 
-Scripted or handwritten font was increasingly used in the 1980s, giving music a more personal feel than before
+Scripted or handwritten font was increasingly used on the covers of albums throughout the 80s, giving music a more personal feel than before.
