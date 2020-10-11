@@ -27,4 +27,4 @@ MTV featured music artists for the first time encouraging more of a focus on the
 
 Scripted or handwritten font was increasingly used on albums in the 80s, giving music a more personal feel than before. It allowed listeners to connect more with artists. Frequently a lightly weighted, cursive font was used, meaning it was harder to read from a distance. This implies that the viewer was expected to recognise the artist from their photograph on the album. This is demonstrated by the 'Thriller' album cover, by Michael Jackson, a luminious portrait of Jackson occupies the majority of the album, inviting in the listener.  
 
-Without the launch of MTV and their broadcasting of artists, the emphasis would not have become so dominant in the music industry
+Without the launch of MTV and their broadcasting of artists, the emphasis on image in the music industry would not have become so dominant. Their bold and youthful branding still connects with an audience today as teenagers long to explore the fun celebrity world as a form of escapism.
