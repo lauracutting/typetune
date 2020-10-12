@@ -6,6 +6,6 @@ header_feature_image: ../uploads/strip.png
 bannerheight: 20vmax
 logo: ../uploads/logo-2.png
 favicon: ../uploads/logo-2.png
-gridlayout: false
+gridlayout: true
 fixednavbar: true
 upzoom: true
