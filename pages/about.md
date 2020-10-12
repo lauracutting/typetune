@@ -8,7 +8,7 @@ header_feature_image: ../uploads/photo-1519677466127-c57393bf453b.jpg
 published: true
 tags: null
 description: null
-show: false
+show: true
 ---
 
 This page is where you write something about yourself. You can add pictures so that people know where you come from or where you live.
