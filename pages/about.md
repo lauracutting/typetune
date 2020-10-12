@@ -32,10 +32,12 @@ I formed the sans serif 'T' by using shapes in adobe illustrator. Using a clean 
 
 To keep the logo cohesive, I have surrounded the main body with a red circle, linking to the circular imagery seen in the music notes. 
 
+The logo is also used as the Favicon to demonstrate that the brand is cohesive and because it remains legible on a smaller scale. 
+
 ## The Banner
 
 To maintain a uniformed blog, the banner adopts the same colour scheme as the logo. Shades of grey and black occupy the image, broken with hints of red. The red pops as a point of interest, engaging the viewer whilst reflecting strength and rebellion, themes I want to be integrated throughout the blog.   
 
 ![typetune banner](../uploads/strip-2.png "typetune banner")
 
-The shapes used take inspiration from CDs and vinyl, key symbols in the music industry. Their shape is echoed in the logo, demonstrating cohesion on the website.
+The shapes used take inspiration from CDs and vinyl, key symbols in the music industry. Their shape is echoed in the logo, demonstrating cohesion on the website. I also selected these shapes to avoid the space feeling cluttered and disorganised.
