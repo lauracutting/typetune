@@ -38,6 +38,6 @@ To keep the logo cohesive I have surrounded the logo with a red circle which lin
 
 ## The Banner
 
-To maintain a uniformed blog, the banner adopts the same colour scheme as the logo. Grey, black and red tones fill the image 
+To maintain a uniformed blog, the banner adopts the same colour scheme as the logo. Shades of grey and black occupy the image, broken with hints of red. The red pops as a point of interest  
 
 ![typetune banner](../uploads/strip-2.png "typetune banner")
