@@ -14,7 +14,7 @@ Welcome to typetune!
 
 I'm Laura, a Media, Journalism & Publishing student, living in Oxford. As part of my Typographic Design module I've created 'typetune', a blog exploring the use of typography in the music industry. 
 
-Music has permeated through my life. Even now, music is accompanying my thoughts as I type. My Dad ignited my passion - as a child I would sit with him, flipping through dusty boxes of the records which flavoured his youth. The assortment of colours, fonts and imagery on the album covers seemed to bring the music to life, each defining the sound the record produced.       
+Music has permeated through my life. Even now, music is accompanying my thoughts as I type. My Dad ignited my passion - as a child I would sit with him, flipping through dusty boxes of records which flavoured his youth. The assortment of colours, fonts and imagery on the album covers seemed to bring the music to life, each defining the sound the record produced.       
  
 
 
