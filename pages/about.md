@@ -14,8 +14,6 @@ show: true
 
 Welcome to Typetune!
 
-## My Story
-
 I'm Laura, a Media, Journalism & Publishing student, living in Oxford. As part of my Typographic Design module I've created 'Typetune', a blog exploring the use of typography in the music industry. 
 
 Music has accompanied me throughout my life, even now I'm listening to it as I type. As a child I would sit with my Dad, flipping through dusty boxes containing his record collection. The assortment of colours, fonts and imagery which adorned the album covers seemed to bring the music to life, each defining the sound of the record. 
@@ -30,14 +28,14 @@ I have incorporated a dark colour scheme which encompasses the rich and edgy fee
 
 ![The typetune Logo](../uploads/logo-2.png "The typetune Logo")
 
-I formed the sans serif 'T' by using shapes in adobe illustrator. Using a clean and modern font, the logo remains legible whilst maintaining structure and strength with its high weight.   
+I formed the sans serif 'T' by using shapes in adobe illustrator. Using a clean and modern font, the logo remains legible whilst maintaining structure and strength with its high weight. The 'T' has a low contrast to maintain legibility.
 
-low contrast, allowing the logo to be easily legible 
-
-To keep the logo cohesive I have surrounded the logo with a red circle which links to the circular imagery seen in the music notes. 
+To keep the logo cohesive, I have surrounded the main body with a red circle, linking to the circular imagery seen in the music notes. 
 
 ## The Banner
 
-To maintain a uniformed blog, the banner adopts the same colour scheme as the logo. Shades of grey and black occupy the image, broken with hints of red. The red pops as a point of interest  
+To maintain a uniformed blog, the banner adopts the same colour scheme as the logo. Shades of grey and black occupy the image, broken with hints of red. The red pops as a point of interest.   
 
 ![typetune banner](../uploads/strip-2.png "typetune banner")
+
+The shapes used take inspiration from CDs and vinyl,
