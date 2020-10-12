@@ -22,7 +22,7 @@ Each era brings with it new imagery and text, seemingly telling a story and form
 
 ## The Logo
 
-The 'typetune' logo consists of a 'T' cocooned by two music notes. This effect gives the impression of an outline. 
+The 'typetune' logo consists of a 'T' cocooned by two music notes. This gives the impression of an outline, emphasising the letter - making it easy to read from a distance. 
 
 
 
