@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About
-subtitle: All about me and my life
+subtitle: ""
 permalink: /about/
 date: 2020-06-29T15:36:12.231Z
 header_feature_image: ../uploads/strip-1-.png
@@ -10,6 +10,16 @@ tags: null
 description: null
 show: true
 ---
+Welcome to typetune!
+
+I'm Laura, a Media, Journalism & Publishing student, living in Oxford. As part of my Typographic Design module I've created 'typetune', a blog exploring the use of typography in the music industry. 
+
+Music has permeated through my life. Even now, music is accompanying my thoughts as I type. My Dad is to blame for much of my passion - as a child I would sit with him, flipping through dusty boxes of the records which flavoured his youth.    
+ 
+
+
+
+
 This page is where you write something about yourself. You can add pictures so that people know where you come from or where you live.
 
 This file is an example of a page in Jekyll, that automatically shows up in the header navigation, you can delete or modify this file freely.
