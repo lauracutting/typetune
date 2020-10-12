@@ -34,8 +34,8 @@ To keep the logo cohesive, I have surrounded the main body with a red circle, li
 
 ## The Banner
 
-To maintain a uniformed blog, the banner adopts the same colour scheme as the logo. Shades of grey and black occupy the image, broken with hints of red. The red pops as a point of interest.   
+To maintain a uniformed blog, the banner adopts the same colour scheme as the logo. Shades of grey and black occupy the image, broken with hints of red. The red pops as a point of interest, engaging the viewer whilst reflecting strength and rebellion, themes I want to be integrated throughout the blog.   
 
 ![typetune banner](../uploads/strip-2.png "typetune banner")
 
-The shapes used take inspiration from CDs and vinyl,
+The shapes used take inspiration from CDs and vinyl, key symbols in the music industry. Their shape is echoed in the logo, demonstrating cohesion on the website.
