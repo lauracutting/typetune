@@ -4,7 +4,7 @@ title: About
 subtitle: ""
 permalink: /about/
 date: 2020-06-29T15:36:12.231Z
-header_feature_image: ../uploads/strip-1-.png
+header_feature_image: ../uploads/strip-2.png
 published: true
 tags: null
 description: null
@@ -34,7 +34,7 @@ I formed the sans serif 'T' by using shapes in adobe illustrator. Using a clean 
 
 low contrast, allowing the logo to be easily legible 
 
-high weight, making the logo appear strong 
+To keep the logo cohesive I have surrounded the logo with a red circle which links to the circular imagery seen in the music notes. 
 
 ## The Banner
 
