@@ -10,13 +10,15 @@ tags: null
 description: null
 show: true
 ---
-Welcome to typetune!
+
+
+Welcome to Typetune!
 
 ## My Story
 
-I'm Laura, a Media, Journalism & Publishing student, living in Oxford. As part of my Typographic Design module I've created 'typetune', a blog exploring the use of typography in the music industry. 
+I'm Laura, a Media, Journalism & Publishing student, living in Oxford. As part of my Typographic Design module I've created 'Typetune', a blog exploring the use of typography in the music industry. 
 
-Music has permeated through my life. Even now, music is accompanying my thoughts as I type. As a child I would sit with my Dad, flipping through dusty boxes containing his record collection. The assortment of colours, fonts and imagery which adorned the album covers seemed to bring the music to life, each defining the sound of the record. 
+Music has accompanied me throughout my life, even now I'm listening to it as I type. As a child I would sit with my Dad, flipping through dusty boxes containing his record collection. The assortment of colours, fonts and imagery which adorned the album covers seemed to bring the music to life, each defining the sound of the record. 
 
 Each era brings with it new imagery and text, seemingly telling a story and forming an image which not only fits the sound but becomes imprinted on society.  
 
@@ -24,24 +26,16 @@ Each era brings with it new imagery and text, seemingly telling a story and form
 
 The 'typetune' logo consists of a 'T' cocooned by two music notes. This gives the impression of an outline, emphasising the letter - making it easy to read from a distance. 
 
+I have incorporated a dark colour scheme which encompasses the rich and edgy feel I want the blog to have. The red and black tones link to many of the genres of music discussed in the blog, such as punk and alternative music. The colour palette links to the branding behind many bands which aim to spread messages of rebellion, uprising and strength. 
 
+![The typetune Logo](../uploads/logo-2.png "The typetune Logo")
 
-Colour 
-
-red and black, edgy colour scheme, linking to many of the genres of music discussed in the blog.
-
-Paying homage to many band logos which utilise a similar colour palette 
-
-Legabilility 
+I formed the sans serif 'T' by using shapes in adobe illustrator. Using a clean and modern font, the logo remains legible whilst maintaining structure and strength with its high weight.   
 
 low contrast, allowing the logo to be easily legible 
 
 high weight, making the logo appear strong 
 
+## The Banner
 
-
-
-
-
-
-![The typetune Logo](../uploads/logo-2.png "The typetune Logo")
+![typetune banner](../uploads/strip-2.png "typetune banner")
