@@ -12,6 +12,4 @@ Album covers are designed to entice the viewer, ordinarily utilising bold colour
 
 Leaving more space on an album cover causes a ‘curiosity gap’, encouraging the viewer to use their imagination form their own story. Less clutter cuts away from the unnecessary, narrowing the viewer's focus and emphasizing the bare essentials of the album cover. When done successfully, this strengthens the artist's message. 
 
->
-
 Frank Ocean's *Chanel Orange,* designed by
