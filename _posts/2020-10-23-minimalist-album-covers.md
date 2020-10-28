@@ -15,6 +15,8 @@ Album covers are designed to entice the viewer, ordinarily utilising bold colour
 
 Leaving more space on an album cover causes a ‘curiosity gap’, encouraging the viewer to use their imagination form their own story. Less clutter cuts away from the unnecessary, narrowing the viewer's focus and emphasizing the bare essentials of the album cover. When done successfully, this strengthens the artist's message. 
 
+In 1968, just a year after the release of the densely adorned 'Sgt. Pepper's Lonely Hearts Club Band', the Beatles released an album 
+
 A later example of the minimalist album cover is Frank Ocean's *Chanel Orange,* designed by Thomas Mastorakos.
 
 ![Channel Orange - Frank Ocean, 2012](../uploads/channel.jpg "Channel Orange - Frank Ocean, 2012")
