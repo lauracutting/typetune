@@ -2,7 +2,7 @@
 layout: post
 title: Minimalist Album Covers
 date: 2020-10-23T07:50:55.766Z
-header_feature_image: ../uploads/rs197_wa_press_13-lpr.jpg
+header_feature_image: ../uploads/the-beatles-white-album-cover-art.jpg
 caption: "George Harrison at the White Album recordings, 1968 "
 comments: true
 ---
