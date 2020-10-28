@@ -15,7 +15,9 @@ Album covers are designed to entice the viewer, ordinarily utilising bold colour
 
 Leaving more space on an album cover causes a ‘curiosity gap’, encouraging the viewer to use their imagination form their own story. Less clutter cuts away from the unnecessary, narrowing the viewer's focus and emphasizing the bare essentials of the album cover. When done successfully, this strengthens the artist's message. 
 
-In 1968, just a year after the release of the densely adorned 'Sgt. Pepper's Lonely Hearts Club Band', the Beatles released a self-titled album with an almost blank cover. Commonly referred to as 'The White Album' ,due to its white colour, the sleeve doesn't contain imagery, only 'the Beatles' written crookedly on the right hand side. The embossed letters are written in Helvetica, a sans-serif font.  
+In 1968, just a year after the release of the densely adorned 'Sgt. Pepper's Lonely Hearts Club Band', the Beatles released a self-titled album with an almost blank cover. Commonly referred to as 'The White Album', due to its white colour, the sleeve doesn't contain imagery, only 'the Beatles' written crookedly on the right hand side. The embossed letters are written in Helvetica, a sans-serif font. Despite its weight being fairly low, the word 'Beatles' has been capitalised, forming the focal point of the album. 
+
+Despite images of the band featuring on 
 
 A later example of the minimalist album cover is Frank Ocean's *Chanel Orange,* designed by Thomas Mastorakos.
 
