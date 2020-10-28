@@ -7,4 +7,6 @@ tags:
   - Music
   - Fonts
 ---
+Free flowing shapes and bright colours which define psychedellic art and album covers
+
 Jimi Hendrix
