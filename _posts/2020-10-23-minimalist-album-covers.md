@@ -5,6 +5,9 @@ date: 2020-10-23T07:50:55.766Z
 header_feature_image: ../uploads/the-beatles-white-album-cover-art2.jpg
 caption: "George Harrison at the White Album recordings, 1968 "
 comments: true
+tags:
+  - Music
+  - Fonts
 ---
  'Perfection is achieved, not when there is nothing more to add, but when there is nothing left to take away'- Antoine de Saint-Exupery 
 
@@ -16,4 +19,4 @@ A later example of the minimalist album cover is Frank Ocean's *Chanel Orange,* 
 
 ![Channel Orange - Frank Ocean, 2012](../uploads/channel.jpg "Channel Orange - Frank Ocean, 2012")
 
-Although Ocean's cover encapsulates a similar level of simplicity to the white album, the bright orange (#ff6700) used for the background and more chunky fonts make its appearance more playful. 'Channel' has been super imposed in the lower-case cooper black font
+Although Ocean's cover encapsulates a similar level of simplicity to the white album, the bright orange (#ff6700) used for the background and more chunky fonts make its appearance more playful. 'Channel' has been super imposed in the lower-case cooper black font which lays its roots in classic hip hop and r&b, perhaps paying tribute to those who came before him.
