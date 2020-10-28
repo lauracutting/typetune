@@ -19,7 +19,7 @@ In 1968, just a year after the release of the densely adorned 'Sgt. Pepper's Lon
 
 Unlike their previous albums, an image of the band was not featured on the cover. Despite this, the 'White Album' remains one of the Beatles' most critically acclaimed albums, demonstrating that just their name written in a simplistic typeface, could sell millions of records.   
 
-A later example of the minimalist album cover is Frank Ocean's *Chanel Orange,* designed by Thomas Mastorakos.
+Many years after the release of the Beatles' album, Frank Ocean followed in their footsteps with his cover for 'Chanel Orange'.
 
 ![Channel Orange - Frank Ocean, 2012](../uploads/channel.jpg "Channel Orange - Frank Ocean, 2012")
 
