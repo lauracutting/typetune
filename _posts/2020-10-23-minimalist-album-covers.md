@@ -17,7 +17,7 @@ Leaving more space on an album cover causes a ‘curiosity gap’, encouraging t
 
 In 1968, just a year after the release of the densely adorned 'Sgt. Pepper's Lonely Hearts Club Band', the Beatles released a self-titled album with an almost blank cover. Commonly referred to as 'The White Album', due to its white colour, the sleeve doesn't contain imagery, only 'the Beatles' written crookedly on the right hand side. The embossed letters are written in Helvetica, a sans-serif font. Despite its weight being fairly low, the word 'Beatles' has been capitalised, forming the focal point of the album. 
 
-Despite images of the band featuring on 
+Unlike their previous albums, an image of the band was not featured on the cover. Despite this, the 'White Album' remains one of the Beatles' most critically acclaimed albums, demonstrating that just their name written in a simplistic typeface, could sell millions of records.   
 
 A later example of the minimalist album cover is Frank Ocean's *Chanel Orange,* designed by Thomas Mastorakos.
 
