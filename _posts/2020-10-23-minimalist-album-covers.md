@@ -16,4 +16,4 @@ A later example of the minimalist album cover is Frank Ocean's *Chanel Orange,* 
 
 ![Channel Orange - Frank Ocean, 2012](../uploads/channel.jpg "Channel Orange - Frank Ocean, 2012")
 
-The cover
+Although Ocean's cover encapsulates a similar level of simplicity to the white album, the bright orange (#ff6700) used for the background and more chunky fonts make its appearance more playful. 'Channel' has been super imposed in the lower-case cooper black font
