@@ -21,4 +21,4 @@ A later example of the minimalist album cover is Frank Ocean's *Chanel Orange,* 
 
 Although Ocean's cover encapsulates a similar level of simplicity to the white album, the bright orange (#ff6700) used for the background and more chunky fonts make its appearance more playful. 'Channel' has been super imposed in the lower-case cooper black font which lays its roots in the classic hip hop and r&b movement, perhaps here Ocean is paying tribute to those who came before him.  This sits next to a more clean, modern sans-serif 'orange' uppercase in the orator font. 
 
-The zesty orange colour used as the backdrop reflects the grapheme-colour synesthesia which Ocean experienced over the summer he made his album. The neurological phenomenon
+The zesty orange colour used as the backdrop reflects the grapheme-colour synesthesia which Ocean experienced over the summer he made his album. In the neurological phenomenon synestheia, an individual percieves words and numbers as colours.
