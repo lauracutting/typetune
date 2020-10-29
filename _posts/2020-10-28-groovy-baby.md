@@ -18,6 +18,8 @@ https://visualartsdepartment.wordpress.com/psychedelic-60s/
 
 https://www.brooklynvegan.com/best-psychedelic-rock-albums-summer-of-love-1967/
 
+https://www.udiscovermusic.com/stories/best-psychedelic-albums/
+
  Balloon like lettering, symbol of hope in socially tense times 
 
 Jimi Hendrix
