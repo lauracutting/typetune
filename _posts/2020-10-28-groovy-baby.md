@@ -11,7 +11,7 @@ Influenced by the use of psychedellic drugs. The word psychedelic derives from t
 
 Music festivals and concerts were a prominent feature of the 60s landscape, and musicians such as Jimi Hendrix, Pink Floyd and the Rolling Stones emerced themselves in the psychedelic moulding the unique artform found expression in band posters and album covers.
 
- 
+
 
  Balloon like lettering, symbol of hope in tense times 
 
