@@ -12,8 +12,12 @@ Influenced by the use of psychedellic drugs. The word psychedelic derives from t
 
 Music festivals and concerts were a prominent feature of the 60s landscape, and musicians such as Jimi Hendrix, Pink Floyd and the Rolling Stones emerced themselves in the psychedelic moulding the unique artform found expression in band posters and album covers.
 
+*1967 was the peak year for psychedelic rock. It gave us Sgt. Pepper’s, debut albums by Jimi Hendrix, The Doors, the Grateful Dead, and the Monterey Pop Festival. It was also The Summer of Love, the counter-cultural phenomenon where nearly 100,000 young people arrived in San Francisco’s Haight Ashbury district to celebrate music, art, and life. It was the year where just about everyone tried to make a psychedelic rock record, from obscure underground bands to bubblegum pop groups. Even Sonny Bono!* 
 
+https://visualartsdepartment.wordpress.com/psychedelic-60s/ 
 
- Balloon like lettering, symbol of hope in tense times 
+https://www.brooklynvegan.com/best-psychedelic-rock-albums-summer-of-love-1967/
+
+ Balloon like lettering, symbol of hope in socially tense times 
 
 Jimi Hendrix
