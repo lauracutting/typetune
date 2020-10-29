@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Groove is in the Art
+title: "Groove is in the Art: 60s & 70s Psychedelic Music "
 date: 2020-10-28T23:42:45.919Z
 comments: true
 tags:
