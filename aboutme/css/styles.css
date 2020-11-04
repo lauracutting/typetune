@@ -1,7 +1,228 @@
+/* ---- General Styles ---- */
 body {
+	margin: 0px;
+	text-align: center;
+  font-family: "courier";
+	font-weight: 80;
+}
+
+/* ---- Introduction Section ---- */
+.introduction_section {
+	height: 700px;
+	width: 100%;
+	background-image: url("../img/strip2.png");
+	background-size: cover;
+}
+
+/* Profile Picture */
+.profile_picture_circle {
+	padding-top: 100px;
+}
+
+.profile_picture {
+	background-image: url("../img/profile.img.jpg");
+	background-position: center;
+	width: 280px;
+	height: 280px;
+	border: white 0px solid;
+	border-radius: 50%;
+	background-size: 105%;
+
+	margin-right: auto;
+	margin-left: auto;
+}
+
+/* Hello text */
+.hello_title {
+	color: white;
+	text-align: center;
+	font-family: "courier";
+	font-weight: 500;
+	font-size: 60px;
+	margin-top: 10px;
+	margin-bottom: 0px;
+}
+
+.hello_subtitle {
+	color: white;
+	font-family: "courier";
+	font-weight: 400;
+	text-align: center;
+	font-size: 25px;
+	margin-top: 0px;
+}
+
+/* Social Icons */
+.social_icon {
+	margin: 5px;
+}
+
+.social_icon img {
+	width: 30px;
+}
+
+.social_icon:hover {
+	opacity: 0.5;
+}
+
+
+/* ---- Few Things Banner ---- */
+.few_things_banner {
+	background-color: #656565	;
+}
+
+.few_things_text {
+	color: white ;
+	font-size: 40px;
+	font-weight: 500;
+	text-align: center;
+	margin: 0;
+	padding: 15px;
+}
+
+
+
+/* ---- Facts ---- */
+/* Main Text */
+
+
+.facts {
+	background-color: #333333;
+	padding-top: 5px;
+	padding-bottom: 5px;
+}
+
+
+/* Text Highlight Colour */
+.highlight {
+	color: #C32E28;
+	font-weight: 400;
+	border: 3px;
+	border-radius: 60px;
+	border-style:solid;
+  padding: 10px 15px 10px 15px;
+}
+
+.facts p {
+	text-align: center;
+	color: white;
+	font-family: "courier";
+	font-size: 20px;
+	font-weight: 250px;
+	line-height: 30px;
+	max-width: 760px;
+	margin: 30px auto 30px auto;
+	padding: 0 20px 0 20px;
+}
+
+
+/* Fact Links */
+.fact_link {
+	color: #C32E28;
+	font-weight: 500;
+	text-decoration: none;
+	border-bottom: 3px solid #C32E28;
+	padding: 0px 2px 0px 2px;
+}
+
+
+/* Text Highlight Colour */
+.highlight {
+	color: #C32E28;
+	font-weight: 550;
+	font-size: 40px;
 
 }
 
-h1 {
-  
+.fact_link:hover {
+	color: #EFEFEF;
+	background-color: #C32E28;
+	padding: 0px 2px 0px 2px;
+}
+
+/* Public Figures List */
+.public_figures_list {
+	font-weight: 300px;
+	font-family: "courier";
+	text-align: center;
+	color: white ;
+	font-size: 20px;
+	font-weight: 300;
+	list-style-type: none;
+
+	padding: 20px auto 20px auto;
+	margin: 0;
+	padding-top: 40px;
+	margin-top: -40px;
+}
+
+.public_figures_list li {
+padding-top: 3px;
+	padding-bottom: 3px;
+  margin-top: 15px;
+	margin-bottom: 15px;
+}
+
+
+/* Fact Picture */
+.fact_image {
+	max-width: 250px;
+	border: white solid 2px;
+	border-radius: 0px;
+
+	display: block;
+	margin: 30px auto 40px auto;
+}
+
+
+/* --- Tell Me About You --- */
+.tell_me_section {
+	background-color: #515151;
+	width: 100%;
+}
+
+/* 'You've learned a little about me.' */
+.learned_text {
+	text-align: center;
+	color: white;
+	font-size: 35px;
+	font-weight: 400;
+	line-height: 70px;
+
+	max-width: 760px;
+	margin: 0 auto 0 auto;
+	padding: 80px 15px 15px;
+}
+
+/* 'Tell me about you' Box */
+.tell_me_link {
+	text-align: center;
+	color: white;
+	font-size: 40px;
+	font-weight: 400;
+	line-height: 70px;
+
+	padding: 0px;
+	margin: auto;
+	padding-bottom: 100px;
+	padding-top: 30px;
+}
+
+.tell_me_link a {
+	color: white;
+	text-decoration: none;
+	border: white 3px solid;
+	border-radius: 50px;
+
+	padding: 10px 20px 10px 20px;
+}
+
+.tell_me_link a:hover {
+	color: #333333;
+	background-color: white;
+	text-decoration: none;
+	border: white 3px solid;
+	border-radius: 50px;
+
+	padding: 10px 20px 10px 20px;
 }
