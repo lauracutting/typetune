@@ -8,7 +8,7 @@ https://medium.com/nightingale/typography-in-album-artwork-from-groovy-typefaces
 
 Now, album covers are beginning to hold less significance. Rather than occupying a 12 inch by 12 inch vinyl sleeve ,which could be pulled from a shelf and admired in all its glory, album covers are increasingly becoming small icons on screens which get scrolled past in seconds. They show up on our phones, and in the Twitter avatars of pop stars. ..................... need to quickly grab attention 
 
-<!--EndFragment-->
+
 
 Digital typefaces popularized in the 90s
 
