@@ -20,6 +20,8 @@ As opposed to detailed imagery and fanciful typography, the best modern covers f
 
 
 
-Digital typefaces popularized in the 90s
+Digital typefaces popularized in the 90s -
+
+*Almost every font from album covers in this decade makes use of a geometric-inspired typeface, reminiscent of computer code or bitmap video games. (And for a good reason: 1996 marked the boom in instant messaging and gaming consoles like Nintendo 64 and Sony PlayStation)*
 
 https://www.creativebloq.com/graphic-design/album-artwork-digital-age-71515796
