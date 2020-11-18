@@ -14,7 +14,11 @@ Importance of branding in modern age albums, linking elements eg: imagery, colou
 
 The album is now not the only branding tool, as it had been in say the 60s. In previous eras it was - in most cases - the first glimpse of what a band's next step looked like.  However streaming services have ushered in a new reality; music no longer depends on the full cohesive album the way the eras of vinyl, CDs and cassettes did. These days, it's not always the album cover announcing the branding for an artist's album.
 
-As opposed to detailed imagery and fanciful typography, the best modern covers feature clean and simple graphics hold up well in the digital world. An example of a digital friendly cover is Drake's *If You're Reading This, It's Too Late* (2015).
+As opposed to detailed imagery and fanciful typography, the best modern covers feature clean and simple graphics hold up well in the digital world. An example of a digital friendly cover is Drake's *If You're Reading This, It's Too Late* (2015). 
+
+![If You're Reading This It's Too Late (2015)](../uploads/drake.jpg "If You're Reading This It's Too Late (2015)")
+
+
 
 Digital typefaces popularized in the 90s
 
