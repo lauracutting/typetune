@@ -29,7 +29,7 @@ Jimi Hendrix
 
     * https://www.wes-wilson.com/the-psychedelic-poster-art-of-wes-wilson-by-colin-brignall.html
 
-      *
+      * https://www.nytimes.com/2020/01/30/arts/design/wes-wilson-dead.html 
 
   https://visualartsdepartment.wordpress.com/psychedelic-60s/ 
 
