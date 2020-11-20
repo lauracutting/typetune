@@ -18,9 +18,11 @@ Music festivals and concerts were a prominent feature of the 60s landscape. Musi
 
 Jimi Hendrix
 
-* The cover art for Hendrix’s second album, *Axis: Bold as Love* (1967) features the Hindu image of the Supreme God Vishnu 
+* The cover art for Hendrix’s second album, *Axis: Bold as Love* (1967) features the Hindu image of the Supreme God Vishnu
 
-https://visualartsdepartment.wordpress.com/psychedelic-60s/ 
+  * The counter-culture movement of the 60s was highly influenced by Eastern culture for its spiritual aspect that condoned self-discovery and aesthetic values. This rejection of the establishment and subsequent self-discovery meant freeing one’s body and mind from the constructs of society, through the use of drugs or trance-inducing music. Hendrix himself partook in such mind-freeing practices by taking tabs of LSD before shows to be connected subconsciously with his music, creating an image for himself as a “hippy.”
+
+  https://visualartsdepartment.wordpress.com/psychedelic-60s/ 
 
 https://www.brooklynvegan.com/best-psychedelic-rock-albums-summer-of-love-1967/
 
