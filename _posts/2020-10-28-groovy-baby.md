@@ -18,9 +18,7 @@ Music festivals and concerts were a prominent feature of the 60s landscape. Musi
 
 Jimi Hendrix
 
-*
-
-
+* The cover art for Hendrix’s second album, *Axis: Bold as Love* (1967) features the Hindu image of the Supreme God Vishnu 
 
 https://visualartsdepartment.wordpress.com/psychedelic-60s/ 
 
