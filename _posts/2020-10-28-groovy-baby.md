@@ -22,6 +22,8 @@ Jimi Hendrix
 
   * The counter-culture movement of the 60s was highly influenced by Eastern culture for its spiritual aspect that condoned self-discovery and aesthetic values. This rejection of the establishment and subsequent self-discovery meant freeing one’s body and mind from the constructs of society, through the use of drugs or trance-inducing music. Hendrix himself partook in such mind-freeing practices by taking tabs of LSD before shows to be connected subconsciously with his music, creating an image for himself as a “hippy.”
 
+    * bright pink, blues, greens, browns, and yellow but uses accented gold to highlight the psychedelic theme the musician aimed for. This replacement of religious symbols or gods with an image of the artist undermines the religious significance of the original image; it was also a strategy used in various album covers of the 1960s and 70s
+
   https://visualartsdepartment.wordpress.com/psychedelic-60s/ 
 
 https://www.brooklynvegan.com/best-psychedelic-rock-albums-summer-of-love-1967/
