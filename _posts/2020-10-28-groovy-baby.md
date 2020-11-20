@@ -24,7 +24,7 @@ Jimi Hendrix
 
     * bright pink, blues, greens, browns, and yellow but uses accented gold to highlight the psychedelic theme the musician aimed for. This replacement of religious symbols or gods with an image of the artist undermines the religious significance of the original image; it was also a strategy used in various album covers of the 1960s and 70s
 
-  Wes Wislon 
+  Wes Wilson 
 
   https://visualartsdepartment.wordpress.com/psychedelic-60s/ 
 
