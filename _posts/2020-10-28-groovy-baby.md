@@ -21,10 +21,15 @@ Jimi Hendrix
 * The cover art for Hendrix’s second album, *Axis: Bold as Love* (1967) features the Hindu image of the Supreme God Vishnu
 
   * The counter-culture movement of the 60s was highly influenced by Eastern culture for its spiritual aspect that condoned self-discovery and aesthetic values. This rejection of the establishment and subsequent self-discovery meant freeing one’s body and mind from the constructs of society, through the use of drugs or trance-inducing music. Hendrix himself partook in such mind-freeing practices by taking tabs of LSD before shows to be connected subconsciously with his music, creating an image for himself as a “hippy.”
-
-    * bright pink, blues, greens, browns, and yellow but uses accented gold to highlight the psychedelic theme the musician aimed for. This replacement of religious symbols or gods with an image of the artist undermines the religious significance of the original image; it was also a strategy used in various album covers of the 1960s and 70s
+  * bright pink, blues, greens, browns, and yellow but uses accented gold to highlight the psychedelic theme the musician aimed for. This replacement of religious symbols or gods with an image of the artist undermines the religious significance of the original image; it was also a strategy used in various album covers of the 1960s and 70s
 
   Wes Wilson 
+
+  * Influences such as the Art Nouveau movement, Victorian and Edwardian display lettering and a philosophy inspired by the great French poster designers of the late 1800s, who harmonised form, colour and typography, were styles which I studied avidly during my own typographic apprenticeship. These are the very same influences that helped Wes Wilson establish his poster design style that became his trademark.
+
+    * https://www.wes-wilson.com/the-psychedelic-poster-art-of-wes-wilson-by-colin-brignall.html
+
+      *
 
   https://visualartsdepartment.wordpress.com/psychedelic-60s/ 
 
