@@ -29,7 +29,9 @@ Jimi Hendrix
 * His work often involved wrapping words around fixed, free-flowing areas in order to fill up space. Fluid block lettering style that became synonymous with the '60s
 * He created iconic posters for artists such as Jefferson Airplane, Otis Reading, and the Grateful Dead
 
-  * Example: In this poster for a concert featuring 
+  * Example: In this poster for an Otis Rush concert 
+
+    every inch of space taken up with undulating, free-flowing, Art Nouveau influenced lines, vibrant colours and Alfred Roller inspired lettering
 
     ![Wes Wilson, Otis Rush at the Fillmore (1967)](../uploads/wes-wilson-poster.jpg "Wes Wilson, Otis Rush at the Fillmore (1967)")
 
