@@ -31,7 +31,7 @@ Jimi Hendrix
 
   * Example: In this poster for an Otis Rush concert almost every available space is occupied by 
 
-    free moving Art Nouveau inspired lines, bold colours and Alfred Roller inspired lettering. Initially the poster was rejected due to its barely legible lettering to which Wilson reponded, "They'll stop to read it because they can't read it." The not easily deciphered typography used in Wilson's, and other psychodellic designers', posters does not distract from the appeal of the works as the overall design and colours are forefronted as a priority.  
+    free moving Art Nouveau inspired lines, bold colours and Alfred Roller inspired lettering. Initially the poster was rejected due to its barely legible lettering to which Wilson reponded, "They'll stop to read it because they can't read it." The not easily deciphered typography used in Wilson's, and other psychodellic designers', posters does not distract from the appeal of the works as the overall design and colours are forefronted as a priority, making the posters marketable.   
 
     ![Wes Wilson, Otis Rush at the Fillmore (1967)](../uploads/wes-wilson-poster.jpg "Wes Wilson, Otis Rush at the Fillmore (1967)")
 
