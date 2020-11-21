@@ -36,7 +36,7 @@ Jimi Hendrix
     ![Wes Wilson, Otis Rush at the Fillmore (1967)](../uploads/wes-wilson-poster.jpg "Wes Wilson, Otis Rush at the Fillmore (1967)")
 * However, some of Wilson's posters utilise more legible fonts. In his poster for the
 
-  ![](../uploads/byrds.jpg)
+  ![Wes Wilson [Untitled] (The Byrds), 1966 ](../uploads/byrds.jpg "Wes Wilson [Untitled] (The Byrds) 1966")
 
   * This style of typography, although adapted in the 60s, found its roots in the 1890s. It's timelessly modern feel once more only proves the lasting power and impact of this type of advertising. 
 
