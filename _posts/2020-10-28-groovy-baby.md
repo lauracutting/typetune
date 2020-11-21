@@ -34,11 +34,11 @@ Jimi Hendrix
     free moving Art Nouveau inspired lines, bold colours and Alfred Roller inspired lettering. Initially the poster was rejected due to its barely legible lettering to which Wilson reponded, "They'll stop to read it because they can't read it." The not easily deciphered typography used in Wilson's, and other psychodellic designers', posters does not distract from the appeal of the works as the overall design and colours are forefronted as a priority, making the posters marketable.   
 
     ![Wes Wilson, Otis Rush at the Fillmore (1967)](../uploads/wes-wilson-poster.jpg "Wes Wilson, Otis Rush at the Fillmore (1967)")
+* However, some of Wilson's posters 
 
+https://www.wes-wilson.com/the-psychedelic-poster-art-of-wes-wilson-by-colin-brignall.html
 
-* https://www.wes-wilson.com/the-psychedelic-poster-art-of-wes-wilson-by-colin-brignall.html
-
-  * https://www.nytimes.com/2020/01/30/arts/design/wes-wilson-dead.html 
+* https://www.nytimes.com/2020/01/30/arts/design/wes-wilson-dead.html 
 
 https://visualartsdepartment.wordpress.com/psychedelic-60s/ 
 
