@@ -34,7 +34,11 @@ Jimi Hendrix
     free moving Art Nouveau inspired lines, bold colours and Alfred Roller inspired lettering. Initially the poster was rejected due to its barely legible lettering to which Wilson reponded, "They'll stop to read it because they can't read it." The not easily deciphered typography used in Wilson's, and other psychodellic designers', posters does not distract from the appeal of the works as the overall design and colours are forefronted as a priority, making the posters marketable.   
 
     ![Wes Wilson, Otis Rush at the Fillmore (1967)](../uploads/wes-wilson-poster.jpg "Wes Wilson, Otis Rush at the Fillmore (1967)")
-* However, some of Wilson's posters 
+* However, some of Wilson's posters utilise more legible fonts. In his poster for the
+
+  ![](../uploads/byrds.jpg)
+
+  * This style of typography, although adapted in the 60s, found its roots in the 1890s. It's timelessly modern feel once more only proves the lasting power and impact of this type of advertising. 
 
 https://www.wes-wilson.com/the-psychedelic-poster-art-of-wes-wilson-by-colin-brignall.html
 
