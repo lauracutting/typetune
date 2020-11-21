@@ -2,7 +2,7 @@
 layout: post
 title: "Groove is in the Art: 60s & 70s Psychedelic Music "
 date: 2020-10-28T23:42:45.919Z
-header_feature_image: ../uploads/30wilson-ss-slide-oo1s-mobilemasterat3x.jpg
+header_feature_image: ../uploads/wes-wilson.jpg
 comments: true
 tags:
   - Music
@@ -24,16 +24,16 @@ Jimi Hendrix
   * bright pink, blues, greens, browns, and yellow but uses accented gold to highlight the psychedelic theme the musician aimed for. This replacement of religious symbols or gods with an image of the artist undermines the religious significance of the original image; it was also a strategy used in various album covers of the 1960s and 70s
 
   Wes Wilson 
+*  Designer whose posters would come to define music advertising for the 1970s psychedellic rock  
 * His influences include the Art Nouveau movement, Victorian and Edwardian typography as well as the French poster design of the late 1800s. These formed the style which became Wes Wilson's trademark. 
+* His work often involved wrapping words around fixed, free-flowing areas in order to fill up space. 
 
-  * His work often involved wrapping words around fixed, free-flowing areas in order to fill up space. 
 
+* https://www.wes-wilson.com/the-psychedelic-poster-art-of-wes-wilson-by-colin-brignall.html
 
-  * https://www.wes-wilson.com/the-psychedelic-poster-art-of-wes-wilson-by-colin-brignall.html
+  * https://www.nytimes.com/2020/01/30/arts/design/wes-wilson-dead.html 
 
-    * https://www.nytimes.com/2020/01/30/arts/design/wes-wilson-dead.html 
-
-  https://visualartsdepartment.wordpress.com/psychedelic-60s/ 
+https://visualartsdepartment.wordpress.com/psychedelic-60s/ 
 
 https://www.brooklynvegan.com/best-psychedelic-rock-albums-summer-of-love-1967/
 
