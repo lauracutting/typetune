@@ -31,7 +31,7 @@ Jimi Hendrix
 
   * Example: In this poster for a concert featuring 
 
-    ![](../uploads/wes-wilson-poster.jpg)
+    ![Wes Wilson, Otis Rush at the Fillmore (1967)](../uploads/wes-wilson-poster.jpg "Wes Wilson, Otis Rush at the Fillmore (1967)")
 
 
 * https://www.wes-wilson.com/the-psychedelic-poster-art-of-wes-wilson-by-colin-brignall.html
