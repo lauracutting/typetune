@@ -26,6 +26,9 @@ Jimi Hendrix
   Wes Wilson 
 * His influences include the Art Nouveau movement, Victorian and Edwardian typography as well as the French poster design of the late 1800s. These formed the style which became Wes Wilson's trademark. 
 
+  * His work often involved wrapping words around fixed, free-flowing areas in order to fill up space. 
+
+
   * https://www.wes-wilson.com/the-psychedelic-poster-art-of-wes-wilson-by-colin-brignall.html
 
     * https://www.nytimes.com/2020/01/30/arts/design/wes-wilson-dead.html 
