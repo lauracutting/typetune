@@ -24,7 +24,7 @@ Jimi Hendrix
   * bright pink, blues, greens, browns, and yellow but uses accented gold to highlight the psychedelic theme the musician aimed for. This replacement of religious symbols or gods with an image of the artist undermines the religious significance of the original image; it was also a strategy used in various album covers of the 1960s and 70s
 
   Wes Wilson 
-*  Designer whose posters came to define the 1960s psychedellic rock movement.   
+* Designer whose posters came to define the 1960s psychedellic rock movement.   
 * His influences include the Art Nouveau movement, Victorian and Edwardian typography as well as the French poster design of the late 1800s. These formed the style which became Wes Wilson's trademark. 
 * His work often involved wrapping words around fixed, free-flowing areas in order to fill up space. Fluid block lettering style that became synonymous with the '60s
 * He created iconic posters for artists such as Jefferson Airplane, Otis Reading, and the Grateful Dead
@@ -34,7 +34,7 @@ Jimi Hendrix
     free moving Art Nouveau inspired lines, bold colours and Alfred Roller inspired lettering. Initially the poster was rejected due to its barely legible lettering to which Wilson reponded, "They'll stop to read it because they can't read it." The not easily deciphered typography used in Wilson's, and other psychodellic designers', posters does not distract from the appeal of the works as the overall design and colours are forefronted as a priority, making the posters marketable.   
 
     ![Wes Wilson, Otis Rush at the Fillmore (1967)](../uploads/wes-wilson-poster.jpg "Wes Wilson, Otis Rush at the Fillmore (1967)")
-* However, some of Wilson's posters utilise more legible fonts. In his poster for the
+* However, some of Wilson's posters utilise more legible fonts. In his poster for the Byrds' first concert, Wilson has utilised a more structured design. 
 
   ![Wes Wilson [Untitled] (The Byrds), 1966 ](../uploads/byrds.jpg "Wes Wilson [Untitled] (The Byrds) 1966")
 
