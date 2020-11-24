@@ -26,7 +26,7 @@ Jimi Hendrix
 Much balloon like lettering was used, perhaps a symbol of hope during these socially tense times. This is heavily featured in the work of psychedelic artist Wes Wilson. Wilson's poster designs came to define the 1960s psychedelic rock movement.   
 
 * His influences include the Art Nouveau movement, Victorian and Edwardian typography as well as the French poster design of the late 1800s. These formed the style which became Wilson's trademark. 
-* To fill space, his work often involved wrapping words around fixed, free-flowing areas. This fluid block lettering style became synonymous with the 60s. The fonts used were predominantly heavily weighted, intended to be noticed,  ideal for drawing in crowds for the concerts they often promoted. 
+* To fill space, his work often involved wrapping words around fixed, free-flowing areas. This fluid block lettering style became synonymous with the 60s. The fonts used were predominantly heavily weighted, intended to be noticed. This was ideal for drawing in crowds for the concerts they promoted. 
 * He created iconic posters for artists such as Jefferson Airplane, Otis Reading, and the Grateful Dead
 
   * Example: In this poster for an Otis Rush concert almost every available space is occupied by free moving Art Nouveau inspired lines, bold colours and lettering influenced by 19th century graphic designer Alfred Roller. 
