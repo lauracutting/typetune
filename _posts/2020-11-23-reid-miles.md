@@ -7,6 +7,7 @@ comments: true
 * Miles designed more than 500 covers for Blue Note Records
 * jazz
 * Designer Viljami Salminen wrote in a blog post that *“During the Fifties, when the design industry was in flux, Reid Miles pushed forward the way the typography is treated with his bold, playful designs, creative use of typefaces, and his distinct preference for contrast and asymmetry.''*
+* modernist
 
 
 
