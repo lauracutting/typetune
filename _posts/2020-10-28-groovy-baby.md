@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Groove is in the Art: 60s & 70s Psychedelic Posters"
-date: 2020-11-24T23:42:45.919Z
+date: 2020-11-23T18:37:32.532Z
 header_feature_image: ../uploads/wes-wilson.jpg
 comments: true
 tags:
