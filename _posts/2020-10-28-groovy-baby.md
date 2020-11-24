@@ -41,7 +41,13 @@ However, some of Wilson's posters utilise more legible fonts. In his poster for 
 
 ![Wes Wilson [Untitled] (The Byrds), 1966 ](../uploads/byrds.jpg "Wes Wilson [Untitled] (The Byrds) 1966")
 
-* This style of typography, although adapted in the 60s, found its roots in the 1890s. It's timelessly modern feel once more only proves the lasting power and impact of this type of advertising. 
+Taking inspiration from Alfred Roller once more, Wilson's lettering occupies all the available space on the poster 
+
+
+
+
+
+This style of typography, although adapted in the 60s, found its roots in the 1890s. It's timelessly modern feel once more only proves the lasting power and impact of this type of advertising. 
 
 https://www.wes-wilson.com/the-psychedelic-poster-art-of-wes-wilson-by-colin-brignall.html
 
