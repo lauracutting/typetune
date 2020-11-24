@@ -23,22 +23,25 @@ Jimi Hendrix
 
 
 
-Much balloon like lettering was used, perhaps a symbol of hope during these socially tense times. This is heavily featured in the work of psychedelic artist Wes Wilson. Wilson's poster designs came to define the 1960s psychedelic rock movement.   
+Much balloon like lettering was used, perhaps a symbol of hope during these socially tense times. This is heavily featured in the work of psychedelic artist Wes Wilson. Wilson's concert poster designs came to define the 1960s psychedelic rock movement.   
 
-* His influences include the Art Nouveau movement, Victorian and Edwardian typography as well as the French poster design of the late 1800s. These formed the style which became Wilson's trademark. 
-* To fill space, his work often involved wrapping words around fixed, free-flowing areas. This fluid block lettering style became synonymous with the 60s. The fonts used were predominantly heavily weighted, intended to be noticed. This was ideal for drawing in crowds for the concerts they promoted. 
-* He created iconic posters for artists such as Jefferson Airplane, Otis Reading, and the Grateful Dead
+Wilson's trademark style was born through influences from the Art Nouveau movement, Victorian and Edwardian typography as well as the French poster design of the late 1800s. Wilson maintained the stylised curves of traditional lettering whilst breaking the structure and shapes, allowing the letters to move freely. 
 
-  * Example: In this poster for an Otis Rush concert almost every available space is occupied by free moving Art Nouveau inspired lines, bold colours and lettering influenced by 19th century graphic designer Alfred Roller. 
+To fill space, his work often involved wrapping words around fixed, free-flowing areas. This fluid block lettering style became synonymous with the 60s. The fonts used were predominantly heavily weighted, intended to be noticed. This was ideal for drawing in crowds for the concerts they promoted. 
 
-    Initially the poster was rejected due to its barely legible lettering to which Wilson reponded, "They'll stop to read it because they can't read it." The free flowing typography used in Wilson, and other psychodellic designers', posters does not distract from the appeal of the works as the overall design as the words are ofted morphed and arranged to form a larger image, demonstrated in the Otis Rush poster. In addition, vivid colours animate the iamgery and typography, making the posters marketable.   
+Wilson created iconic posters for artists such as Jefferson Airplane, Otis Rush, and the Grateful Dead. In this poster for an Otis Rush concert, almost every available space is occupied by free moving Art Nouveau inspired lines, bold colours and lettering influenced by 19th century graphic designer Alfred Roller. 
 
-    ![Wes Wilson, Otis Rush at the Fillmore (1967)](../uploads/wes-wilson-poster.jpg "Wes Wilson, Otis Rush at the Fillmore (1967)")
-* However, some of Wilson's posters utilise more legible fonts. In his poster for the Byrds' first concert, Wilson has utilised a more structured design. 
 
-  ![Wes Wilson [Untitled] (The Byrds), 1966 ](../uploads/byrds.jpg "Wes Wilson [Untitled] (The Byrds) 1966")
 
-  * This style of typography, although adapted in the 60s, found its roots in the 1890s. It's timelessly modern feel once more only proves the lasting power and impact of this type of advertising. 
+![Wes Wilson, Otis Rush at the Fillmore (1967)](../uploads/wes-wilson-poster.jpg "Wes Wilson, Otis Rush at the Fillmore (1967)")
+
+Initially the poster was rejected due to its barely legible lettering to which Wilson reponded, "They'll stop to read it because they can't read it." The free flowing typography used in Wilson, and other psychodellic designers', posters does not distract from the appeal of the works as the overall design as the words are ofted morphed and arranged to form a larger image, demonstrated in the Otis Rush poster. In addition, vivid colours animate the iamgery and typography, making the posters marketable.   
+
+However, some of Wilson's posters utilise more legible fonts. In his poster for the Byrds' first concert, Wilson has utilised a more structured design. 
+
+![Wes Wilson [Untitled] (The Byrds), 1966 ](../uploads/byrds.jpg "Wes Wilson [Untitled] (The Byrds) 1966")
+
+* This style of typography, although adapted in the 60s, found its roots in the 1890s. It's timelessly modern feel once more only proves the lasting power and impact of this type of advertising. 
 
 https://www.wes-wilson.com/the-psychedelic-poster-art-of-wes-wilson-by-colin-brignall.html
 
