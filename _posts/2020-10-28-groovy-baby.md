@@ -8,20 +8,7 @@ tags:
   - Music
   - Fonts
 ---
-Much of the 60s and 70s music scene was influenced by the use of psychedellic drugs. The word psychedelic derives from the latin phrase 'psyche' meaning mind, and the greek term 'delos', which means to manifest, or awaken: 'to awaken the mind'. The free flowing shapes and potent colours which infuse 60s and 70s poster and album art reflect the freedom expressed in the period. 
-
-Heavily weighted fonts, intended to be noticed,  ideal for drawing in crowds for the concerts they often promoted. 
-
-Jimi Hendrix
-
-* The cover art for Hendrix’s second album, *Axis: Bold as Love* (1967) features the Hindu image of the Supreme God Vishnu
-
-  * The counter-culture movement of the 60s was highly influenced by Eastern culture for its spiritual aspect that condoned self-discovery and aesthetic values. This rejection of the establishment and subsequent self-discovery meant freeing one’s body and mind from the constructs of society, through the use of drugs or trance-inducing music. Hendrix himself partook in such mind-freeing practices by taking tabs of LSD before shows to be connected subconsciously with his music, creating an image for himself as a “hippy.”
-  * bright pink, blues, greens, browns, and yellow but uses accented gold to highlight the psychedelic theme the musician aimed for. This replacement of religious symbols or gods with an image of the artist undermines the religious significance of the original image; it was also a strategy used in various album covers of the 1960s and 70s
-
-
-
-
+Much of the 60s and 70s music scene was influenced by the use of psychedellic drugs. The word psychedelic derives from the latin phrase 'psyche' meaning mind, and the greek term 'delos', which means to manifest, or awaken: 'to awaken the mind'. The free flowing shapes and potent colours which infuse 60s and 70s typography reflect the freedom expressed in the period. 
 
 Much balloon like lettering was used, perhaps a symbol of hope during these socially tense times. This is heavily featured in the work of psychedelic artist Wes Wilson. Wilson's concert poster designs came to define the 1960s psychedelic rock movement.   
 
@@ -43,4 +30,4 @@ However, some of Wilson's posters utilise more legible fonts. In his poster for 
 
 Taking inspiration from Alfred Roller once more, Wilson's lettering occupies all the available space on the poster. The ‘Byrds’ lettering has a three-dimensional look and the counters more open, as a result, increasing legibility and allowing the ‘main attraction’ to be easily read without struggling to decipher what's being said.
 
-This style of typography, although adapted in the 60s, found its roots in the 1890s. It's timelessly modern feel  only proves the lasting power and impact of this type of advertising and the continued popularity of the style.
+This style of typography, although adapted in the 60s, found its roots in the 1890s. It's timelessly modern feel  only proves the lasting power and impact of this type of advertising and the continued popularity of its style.
