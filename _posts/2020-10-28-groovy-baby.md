@@ -43,14 +43,4 @@ However, some of Wilson's posters utilise more legible fonts. In his poster for 
 
 Taking inspiration from Alfred Roller once more, Wilson's lettering occupies all the available space on the poster. The ‘Byrds’ lettering has a three-dimensional look and the counters more open, as a result, increasing legibility and allowing the ‘main attraction’ to be easily read without struggling to decipher what's being said.
 
-This style of typography, although adapted in the 60s, found its roots in the 1890s. It's timelessly modern feel once more only proves the lasting power and impact of this type of advertising. 
-
-https://www.wes-wilson.com/the-psychedelic-poster-art-of-wes-wilson-by-colin-brignall.html
-
-* https://www.nytimes.com/2020/01/30/arts/design/wes-wilson-dead.html 
-
-https://visualartsdepartment.wordpress.com/psychedelic-60s/ 
-
-https://www.brooklynvegan.com/best-psychedelic-rock-albums-summer-of-love-1967/
-
-https://www.udiscovermusic.com/stories/best-psychedelic-albums/
+This style of typography, although adapted in the 60s, found its roots in the 1890s. It's timelessly modern feel  only proves the lasting power and impact of this type of advertising and the continued popularity of the style.
