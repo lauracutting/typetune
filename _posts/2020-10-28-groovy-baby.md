@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Groove is in the Art: 60s & 70s Psychedelic Posters"
-date: 2020-10-28T23:42:45.919Z
+date: 2020-11-24T23:42:45.919Z
 header_feature_image: ../uploads/wes-wilson.jpg
 comments: true
 tags:
@@ -10,7 +10,7 @@ tags:
 ---
 Much of the 60s and 70s music scene was influenced by the use of psychedellic drugs. The word psychedelic derives from the latin phrase 'psyche' meaning mind, and the greek term 'delos', which means to manifest, or awaken: 'to awaken the mind'. The free flowing shapes and potent colours which infuse 60s and 70s typography reflect the freedom expressed in the period. 
 
-Much balloon like lettering was used, perhaps a symbol of hope during these socially tense times. This is heavily featured in the work of psychedelic artist Wes Wilson. Wilson's concert poster designs came to define the 1960s psychedelic rock movement.   
+Balloon like lettering was greatly used, providing a symbol of hope during the socially tense 60s and 70s. This is heavily featured in the work of psychedelic artist Wes Wilson. Wilson's concert poster designs came to define the 1960s psychedelic rock movement.   
 
 Wilson's trademark style was born through influences from the Art Nouveau movement, Victorian and Edwardian typography as well as the French poster design of the late 1800s. Wilson maintained the stylised curves of traditional lettering whilst breaking the structure and shapes, allowing the letters to move freely. 
 
