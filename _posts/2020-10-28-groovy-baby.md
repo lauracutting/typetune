@@ -35,9 +35,9 @@ Wilson created iconic posters for artists such as Jefferson Airplane, Otis Rush,
 
 ![Wes Wilson, Otis Rush at the Fillmore (1967)](../uploads/wes-wilson-poster.jpg "Wes Wilson, Otis Rush at the Fillmore (1967)")
 
-Initially the poster was rejected due to its barely legible lettering to which Wilson reponded, "They'll stop to read it because they can't read it." The free flowing typography used in Wilson, and other psychodellic designers', posters does not distract from the appeal of the works as the overall design as the words are ofted morphed and arranged to form a larger image, demonstrated in the Otis Rush poster. In addition, vivid colours animate the iamgery and typography, making the posters marketable.   
+Initially the poster was rejected due to its barely legible lettering to which Wilson responded, "They'll stop to read it because they can't read it." The free flowing typography used in Wilson, and other psychedelic designers', posters does not damage the appeal of the overall design as the words are often morphed and arranged to form a larger image, demonstrated in the Otis Rush poster. In addition, vivid colours animate the imagery and typography, making the posters marketable.   
 
-However, some of Wilson's posters utilise more legible fonts. In his poster for the Byrds' first concert, Wilson has utilised a more structured design. 
+However, some of Wilson's posters utilise more legible fonts. In his poster for the Byrds' first concert, Wilson has used a more structured design. 
 
 ![Wes Wilson [Untitled] (The Byrds), 1966 ](../uploads/byrds.jpg "Wes Wilson [Untitled] (The Byrds) 1966")
 
