@@ -12,8 +12,6 @@ Much of the 60s and 70s music scene was influenced by the use of psychedellic dr
 
 Heavily weighted fonts, intended to be noticed,  ideal for drawing in crowds for the concerts they often promoted. 
 
-Much balloon like lettering was used, perhaps a symbol of hope during these socially tense times.
-
 Jimi Hendrix
 
 * The cover art for Hendrix’s second album, *Axis: Bold as Love* (1967) features the Hindu image of the Supreme God Vishnu
