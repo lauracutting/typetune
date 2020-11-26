@@ -2,7 +2,7 @@
 layout: post
 title: "Reid Miles: the Jazz Man"
 date: 2020-11-23T14:39:44.677Z
-header_feature_image: ../uploads/miles-2.jpg
+header_feature_image: ../uploads/miles.jpg
 comments: true
 tags:
   - Music
