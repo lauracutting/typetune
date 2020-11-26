@@ -9,7 +9,7 @@ tags:
   - Fonts
   - Design
 ---
-1950s graphic designer Reid Miles produced more than 500 covers for jazz label Blue Note Records. Miles' pioneering style emphasized the importance of typography to the album cover as a whole, allowing the text to take centre stage. Miles' album covers embodied modernism, portraying a single message or idea in a powerful and simple way. The design carries the message, rather than attempting to be the message.
+1950s graphic designer Reid Miles produced more than 500 covers for jazz label Blue Note Records. Miles' pioneering style emphasized the importance of typography to the album cover as a whole, allowing the text to take centre stage. Miles' album covers embodied modernism, portraying a single thought or idea in a powerful and simple way. The design carries the message, rather than attempting to be the message.
 
 His distinct preference for contrast and asymmetry reflects the distinction between the black and white keys of a piano - an essential instrument in the Jazz music which Miles promoted. 
 
