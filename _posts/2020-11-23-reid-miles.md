@@ -14,6 +14,12 @@ Rather than using typography for its primary purpose, to accompany an image, Mil
 
 
 
-He collaborated with photographer Francis Wolff when producing his album covers, ensuring Wolff's photography shone through in the designs. Miles complimented the highly contrasting, two toned photographs with  heavily weighted , capitalized typefaces. 
+He often collaborated with photographer Francis Wolff when producing his album covers, ensuring Wolff's photography shone through in the designs. Miles complimented the highly contrasting, two toned photographs with heavily weighted, capitalized typefaces. The disjointed arrangement of the letters reflects the bouncy rhythms of jazz music
+
+![]()
+
+Colour was used sparingly in Miles' album covers. One colour was usually injected into an otherwise black and white design. These tints and dabs animated the covers, 
+
+
 
 http://retinart.net/artist-profiles/jazzy-blue-notes-reid-miles/
