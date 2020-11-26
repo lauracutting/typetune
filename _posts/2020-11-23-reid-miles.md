@@ -26,10 +26,4 @@ In some covers, Miles added playful quirks, linking the text to the photography.
 
 ![Una Mas (One More Time) by Kenny Dorham](../uploads/reid-miles.jpg "Una Mas (One More Time) by Kenny Dorham")
 
-Following Miles' classic duo tone colour scheme, the cover of Kenny Dorham's Una Mas, demonstrates the designer's playfulness. The title of the album appears to be held in the Kenny Dorham's hand. Touches like this add a level of charm whilst still maintaining simplicity. Miles doesn't need to show off, the cover is relaxed enough that it doesn't need to scream to be smart. 
-
-
-
-
-
-http://retinart.net/artist-profiles/jazzy-blue-notes-reid-miles/
+Following Miles' classic duo tone colour scheme, the cover of Kenny Dorham's Una Mas, demonstrates the designer's playfulness. The title of the album appears to be held in the Kenny Dorham's hand. Touches like this add a level of charm whilst still maintaining simplicity. Miles doesn't need to show off, the cover is relaxed enough that it doesn't need to scream to be smart.
