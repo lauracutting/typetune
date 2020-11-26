@@ -20,6 +20,6 @@ He often collaborated with photographer Francis Wolff when producing his album c
 
 Colour was used sparingly in Miles' album covers. One colour was usually injected into an otherwise black and white design. These tints and dabs animated the covers, 
 
-Balancing the elements was key to the success of Miles' designs. When a photograph occupied the whole cover, he would ensure that the typography was gently tucked into a corner and when the title is loud, the photography would be turned down. 
+Balancing the elements was key to the success of Miles' designs. When a photograph occupied the whole cover, he would ensure that the typography was gently tucked into a corner and when the title was loud, the photography would be turned down. 
 
 http://retinart.net/artist-profiles/jazzy-blue-notes-reid-miles/
