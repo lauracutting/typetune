@@ -28,6 +28,8 @@ In some covers, Miles added playful quirks, linking the text to the photography.
 
 Following Miles' classic duo tone colour scheme, the cover of Kenny Dorham's Una Mas,  .............................
 
+The title of the album appears to be held in the artist's hand 
+
 add a level of charm. It demonstrates that the cover is relaxed enough that it doesn't need to scream to be smart. 
 
 
