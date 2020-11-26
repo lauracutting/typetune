@@ -22,4 +22,6 @@ Colour was used sparingly in Miles' album covers. One colour was usually injecte
 
 Balancing the elements was key to the success of Miles' designs. When a photograph occupied the whole cover, he would ensure that the typography was gently tucked into a corner and when the title was loud, the photography would be turned down. 
 
+In some covers, Miles added playful quirks 
+
 http://retinart.net/artist-profiles/jazzy-blue-notes-reid-miles/
