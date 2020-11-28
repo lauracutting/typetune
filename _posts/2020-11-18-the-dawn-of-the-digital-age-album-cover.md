@@ -10,7 +10,7 @@ tags:
 ---
 https://medium.com/nightingale/typography-in-album-artwork-from-groovy-typefaces-to-handwritten-calligraphy-5cab22d6fa0d 
 
-Now, album covers are beginning to hold less significance. Rather than occupying a 12 inch by 12 inch vinyl sleeve, which could be pulled from a shelf and admired in all its glory, album covers are increasingly becoming small icons on screens which are scrolled past in seconds. They show up on our phones, and in the Twitter avatars of pop stars. ..................... need to quickly grab attention 
+Now, album covers are beginning to hold less significance. Rather than occupying a 12 inch by 12 inch vinyl sleeve, which could be pulled from a shelf and admired in all its glory, album covers are increasingly becoming small icons on screens which are scrolled past in seconds, their aim not to be admired but now instead to quickly grab the attention of the listener.
 
 Importance of branding in modern age albums, linking elements eg: imagery, colour scheme and typography on the album cover to promotional posters, music videos ect. 
 
