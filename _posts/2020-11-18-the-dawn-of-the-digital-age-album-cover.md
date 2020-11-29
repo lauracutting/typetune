@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The Dawn of the Digital Age Album Cover
+title: "The Digital Age "
 date: 2020-11-18T12:37:27.008Z
 comments: true
 tags:
