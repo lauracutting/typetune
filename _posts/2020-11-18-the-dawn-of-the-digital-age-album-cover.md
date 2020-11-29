@@ -22,10 +22,12 @@ As opposed to detailed imagery and fanciful typography, the best modern covers f
 
 *Drake's album also worked because it evoked an instant response from viewers. The cover [immediately became a meme](http://fusion.net/list/50583/15-of-the-best-drake-if-youre-reading-this-album-cover-parodies/) — people used it as a template for jokes, helping to promote the album through their mimicry. That's a great design — one that can be copied endlessly without distorting the original.*
 
-More of an emphasis has been placed on engaging the fans in album cover design. An increase in fan made style cover artwork. 
+More of an emphasis has been placed on engaging the fans in album cover design. There has been an increase in fan made style cover artwork. Taylor Swift's 2019 album 'Lover'  
 
-Digital typefaces popularized in the 90s -
 
-*Almost every font from album covers in this decade makes use of a geometric-inspired typeface, reminiscent of computer code or bitmap video games. (And for a good reason: 1996 marked the boom in instant messaging and gaming consoles like Nintendo 64 and Sony PlayStation)*
+
+***“I think about Lover, and all the glitter heart eyes it inspired and the way people photoshopped themselves on the cover: everyone, from my neighbor to Ellen \[DeGeneres],” Valheria Rocha, who designed the artwork for Swift’s eighth album, tells Entertainment Weekly. “There’s a level of iconicness and relatability that made the cover influential. People saw they could easily make their own versions of Lover and I think it makes them feel a little closer to Taylor.”***
+
+
 
 https://www.creativebloq.com/graphic-design/album-artwork-digital-age-71515796
