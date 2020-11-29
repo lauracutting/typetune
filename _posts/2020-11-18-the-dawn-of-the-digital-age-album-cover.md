@@ -30,4 +30,8 @@ More of an emphasis has been placed on engaging the fans in album cover design. 
 
 
 
+https://ew.com/music/2020/02/24/ugly-kitsch-album-covers-taylor-swift-selena-gomez/
+
+
+
 https://www.creativebloq.com/graphic-design/album-artwork-digital-age-71515796
