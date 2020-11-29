@@ -24,6 +24,8 @@ As opposed to detailed imagery and fanciful typography, the best modern covers f
 
 *Drake's album also worked because it evoked an instant response from viewers. The cover [immediately became a meme](http://fusion.net/list/50583/15-of-the-best-drake-if-youre-reading-this-album-cover-parodies/) — people used it as a template for jokes, helping to promote the album through their mimicry. That's a great design — one that can be copied endlessly without distorting the original.*
 
+Emphasis on engaging the fans 
+
 Digital typefaces popularized in the 90s -
 
 *Almost every font from album covers in this decade makes use of a geometric-inspired typeface, reminiscent of computer code or bitmap video games. (And for a good reason: 1996 marked the boom in instant messaging and gaming consoles like Nintendo 64 and Sony PlayStation)*
