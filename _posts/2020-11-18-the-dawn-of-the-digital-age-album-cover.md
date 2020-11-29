@@ -24,7 +24,7 @@ As opposed to detailed imagery and fanciful typography, the best modern covers f
 
 *Drake's album also worked because it evoked an instant response from viewers. The cover [immediately became a meme](http://fusion.net/list/50583/15-of-the-best-drake-if-youre-reading-this-album-cover-parodies/) — people used it as a template for jokes, helping to promote the album through their mimicry. That's a great design — one that can be copied endlessly without distorting the original.*
 
-Emphasis on engaging the fans 
+More of an emphasis has been placed on engaging the fans in album cover design. An increase in fan made style cover artwork. 
 
 Digital typefaces popularized in the 90s -
 
