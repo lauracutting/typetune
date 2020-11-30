@@ -22,7 +22,9 @@ The black handwritten letters form a stark contrast with the blank background. D
 
 The album evoked an instant reaction from viewers, quickly becoming a [](http://fusion.net/list/50583/15-of-the-best-drake-if-youre-reading-this-album-cover-parodies/)meme — it was used as a template for jokes, creating interest - helping to promote the album through their satire. Due to its direct and notable style, it can be copied endlessly without distorting the original design.
 
-This emphasis on engaging fans by using album cover design, can also be viewed in Taylor Swift's 2019 album 'Lover'. The cover artwork has a fan made appearance. Similarly to Drake, the font is handwritten, pushing the personal feel Swift wanted her album to give . 
+This emphasis on engaging fans by using album cover design, can also be viewed in Taylor Swift's 2019 album 'Lover'. The cover artwork has a fan made appearance. Similarly to Drake, the font is handwritten, pushing the personal feel Swift wanted her album to give. Appealing to her audience, Swift's 'Lover' can be easily edited, people began photoshopping themselves onto the cover forming a sense of community and relatability to the artist. 
+
+The pastel colour scheme of the cover is gentle and reassuring
 
 ***“I think about Lover, and all the glitter heart eyes it inspired and the way people photoshopped themselves on the cover: everyone, from my neighbor to Ellen \[DeGeneres],” Valheria Rocha, who designed the artwork for Swift’s eighth album, tells Entertainment Weekly. “There’s a level of iconicness and relatability that made the cover influential. People saw they could easily make their own versions of Lover and I think it makes them feel a little closer to Taylor.”***
 
