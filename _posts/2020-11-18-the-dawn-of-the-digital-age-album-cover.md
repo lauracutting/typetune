@@ -18,7 +18,7 @@ As opposed to detailed imagery and fanciful typography, the best modern covers f
 
 ![If You're Reading This It's Too Late (2015)](../uploads/drake.jpg "If You're Reading This It's Too Late (2015)")
 
-The black handwritten letters form a stark contrast with the blank background. Due to its simplicity, the album cover could easily be translated into other forms of branding such as t shirts and promotional posters. The handwritten style typeface provides a level of familiarity, bridging the gap between Drake and his fans. 
+The black handwritten letters form a stark contrast with the blank background. Due to its simplicity, the album cover can easily be translated into other forms of branding such as t shirts and promotional posters. The handwritten style typeface provides a level of familiarity, bridging the gap between Drake and his fans. 
 
 The album evoked an instant reaction from viewers, quickly becoming a [](http://fusion.net/list/50583/15-of-the-best-drake-if-youre-reading-this-album-cover-parodies/)meme — it was used as a template for jokes, creating interest - helping to promote the album through their satire. Due to its direct and notable style, it can be copied endlessly without distorting the original design.
 
