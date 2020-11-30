@@ -14,17 +14,17 @@ The digital age of streaming has made album covers almost obsolete. Rather than 
 
 Presenting the artist as a brand and appealing to their fan base has become more significant than ever before. The album is now not the only branding tool, as it had been in say the 60s. In previous eras it was - in most cases - the first glimpse of what a band's next step looked like.  However streaming services have ushered in a new reality; music no longer depends on the full cohesive album the way the eras of vinyl, CDs and cassettes did. These days, it's not always the album cover announcing the branding for an artist's album.
 
-As opposed to detailed imagery and fanciful typography, the best modern covers feature clean and simple graphics hold up well in the digital world. An example of a digital friendly cover is Drake's *If You're Reading This, It's Too Late* (2015). 
+As opposed to detailed imagery and fanciful typography, the best modern covers feature clean and simple graphics. An example of a digital friendly cover is Drake's *If You're Reading This, It's Too Late* (2015). 
 
 ![If You're Reading This It's Too Late (2015)](../uploads/drake.jpg "If You're Reading This It's Too Late (2015)")
 
-*Hand-lettered on a stark white background, it holds up well on 2 inch squares and T-shirts alike..*
-
-*Drake's album also worked because it evoked an instant response from viewers. The cover [immediately became a meme](http://fusion.net/list/50583/15-of-the-best-drake-if-youre-reading-this-album-cover-parodies/) — people used it as a template for jokes, helping to promote the album through their mimicry. That's a great design — one that can be copied endlessly without distorting the original.*
-
-More of an emphasis has been placed on engaging the fans in album cover design. There has been an increase in fan made style cover artwork. Taylor Swift's 2019 album 'Lover'  
+The black handwritten letters form a stark contrast with the blank background. Due to its simplicity, the album cover could easily be translated into other forms of branding such as t shirts and promotional posters. The handwritten style typeface provides a level of familiarity, bridging the gap between Drake and his fans. 
 
 
+
+*The album evoked an instant response from viewers. The cover [immediately became a meme](http://fusion.net/list/50583/15-of-the-best-drake-if-youre-reading-this-album-cover-parodies/) — people used it as a template for jokes, helping to promote the album through their mimicry. That's a great design — one that can be copied endlessly without distorting the original.*
+
+This emphasis on engaging fans by using album cover design, can also be viewed in Taylor Swift's 2019 album 'Lover'. The cover artwork has a fan made appearance.
 
 ***“I think about Lover, and all the glitter heart eyes it inspired and the way people photoshopped themselves on the cover: everyone, from my neighbor to Ellen \[DeGeneres],” Valheria Rocha, who designed the artwork for Swift’s eighth album, tells Entertainment Weekly. “There’s a level of iconicness and relatability that made the cover influential. People saw they could easily make their own versions of Lover and I think it makes them feel a little closer to Taylor.”***
 
