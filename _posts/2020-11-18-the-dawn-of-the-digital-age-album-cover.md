@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The New Age of Digital Album Covers "
+title: "Digital Album Covers: the New Age"
 date: 2020-11-18T12:37:27.008Z
 header_feature_image: ../uploads/drake-2.jpg
 comments: true
