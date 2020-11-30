@@ -22,7 +22,7 @@ The album evoked an instant reaction from viewers, quickly becoming a [](http://
 
 This emphasis on engaging fans by using album cover design, can also be viewed in Taylor Swift's 2019 album 'Lover'. The cover artwork has a fan made appearance. Similarly to Drake, the font is handwritten, pushing the personal feel Swift wanted her album to give. The simplicity of Swift's 'Lover' cover means that it can be easily edited by fans. After its release, people began photoshopping themselves onto the album, forming a sense of community in the fanbase and relatability to the artist. 
 
-
+![Lover (2019)](../uploads/lover.jpg "Lover (2019)")
 
 The pastel colour scheme of the cover is gentle and reassuring, appealing to the bubblegum pop sound of the album. The cover art takes inspiration from the 'pastel wave' of Tumblr fan edits which emerged in the 2010s, reinforcing the relatable feel and allowing fans to feel closer to Swift. 
 
