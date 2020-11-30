@@ -26,8 +26,6 @@ This emphasis on engaging fans by using album cover design, can also be viewed i
 
 The pastel colour scheme of the cover is gentle and reassuring, appealing to the bubblgum pop sound of the album. The cover art takes inspiration from the 'pastel wave' of Tumblr fan edits which emerged in the 2010s, reinforcing the relatable feel and allowing fans to feel closer to Swift. 
 
-***“I think about Lover, and all the glitter heart eyes it inspired and the way people photoshopped themselves on the cover: everyone, from my neighbor to Ellen \[DeGeneres],” Valheria Rocha, who designed the artwork for Swift’s eighth album, tells Entertainment Weekly. “There’s a level of iconicness and relatability that made the cover influential. People saw they could easily make their own versions of Lover and I think it makes them feel a little closer to Taylor.”***
-
 
 
 https://ew.com/music/2020/02/24/ugly-kitsch-album-covers-taylor-swift-selena-gomez/
