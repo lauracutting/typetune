@@ -26,6 +26,8 @@ This emphasis on engaging fans by using album cover design, can also be viewed i
 
 The pastel colour scheme of the cover is gentle and reassuring, appealing to the bubblegum pop sound of the album. The cover art takes inspiration from the 'pastel wave' of Tumblr fan edits which emerged in the 2010s, reinforcing the relatable feel and allowing fans to feel closer to Swift. 
 
+New technology has made it easier than ever before for everyone to explore design, fitting into the square. It is only the most outrageously remarkable or subtly clever cover designs which push the boundaries of the square and become prevelent in our instant world today. 
+
 
 
 https://ew.com/music/2020/02/24/ugly-kitsch-album-covers-taylor-swift-selena-gomez/
