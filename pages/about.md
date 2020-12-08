@@ -10,8 +10,6 @@ tags: null
 description: null
 show: true
 ---
-
-
 Welcome to Typetune!
 
 I'm Laura, a Media, Journalism & Publishing student, living in Oxford. As part of my Typographic Design module I've created 'Typetune', a blog exploring the use of typography in the music industry. 
@@ -19,6 +17,16 @@ I'm Laura, a Media, Journalism & Publishing student, living in Oxford. As part o
 Music has accompanied me throughout my life, even now I'm listening to it as I type. As a child I would sit with my Dad, flipping through dusty boxes containing his record collection. The assortment of colours, fonts and imagery which adorned the album covers seemed to bring the music to life, each defining the sound of the record. 
 
 Each era brings with it new imagery and text, seemingly telling a story and forming an image which not only fits the sound but becomes imprinted on society.  
+
+
+
+What makes Typetune different?
+
+
+
+What are the brand's qualities? 
+
+
 
 ## The Logo
 
