@@ -18,15 +18,15 @@ Music has accompanied me throughout my life, even now I'm listening to it as I t
 
 Each era brings with it new imagery and text, seemingly telling a story and forming an image which not only fits the sound but becomes imprinted on society.  
 
-
-
 What makes Typetune different?
 
+\-  Focusing on fonts in music from a variety of decades
 
+\- Demonstrating how styles have developed, coming in and out of trend
 
 What are the brand's qualities? 
 
-
+\- 
 
 ## The Logo
 
