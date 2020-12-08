@@ -20,13 +20,14 @@ Each era brings with it new imagery and text, seemingly telling a story and form
 
 What makes Typetune different?
 
-\-  Focusing on fonts in music from a variety of decades
-
-\- Demonstrating how styles have developed, coming in and out of trend
+* Looks back to the past, focusing on fonts in music from a variety of decades 
+* Observes all genres of music, not just what is popular today
+*
 
 What are the brand's qualities? 
 
-\- 
+* Creativity
+* Passion 
 
 ## The Logo
 
