@@ -26,8 +26,9 @@ What makes Typetune different?
 
 What are the brand's qualities? 
 
-* Creativity
-* Passion 
+* Creativity - Typetune is inspired by album cover art, telling the stories behind the designs  
+* Passion - every article is written with a deep rooted interest in music 
+* Accessibility - 
 
 ## The Logo
 
