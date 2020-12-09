@@ -20,11 +20,11 @@ Each era brings with it new imagery and text, seemingly telling a story and form
 
 ## What makes Typetune different?
 
-* Looks back to the past, focusing on fonts in music from a variety of decades 
-* Observes all genres of music and the artists at the time, particularly those off the beaten track
-* Shows how music art inspired culture at the time
+* It looks back to the past, focusing on fonts in music from a variety of decades 
+* It observes all genres of music and the artists at the time, particularly those off the beaten track
+* And shows how music art inspired culture at the time
 
-## What are the brand's qualities? 
+## What are the Typetune's qualities?
 
 * Creativity: Typetune is inspired by album cover art, illustrating the stories behind the designs  
 * Passion: every article is written with a deep rooted interest in music 
