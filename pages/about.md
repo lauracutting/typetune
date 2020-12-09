@@ -10,7 +10,7 @@ tags: null
 description: null
 show: true
 ---
-Welcome to Typetune!
+## Welcome to Typetune!
 
 I'm Laura, a Media, Journalism & Publishing student, living in Oxford. As part of my Typographic Design module I've created 'Typetune', a blog exploring the use of typography in the music industry. 
 
@@ -18,13 +18,13 @@ Music has accompanied me throughout my life, even now I'm listening to it as I t
 
 Each era brings with it new imagery and text, seemingly telling a story and forming an image which not only fits the sound but becomes imprinted on society.  
 
-What makes Typetune different?
+## What makes Typetune different?
 
 * Looks back to the past, focusing on fonts in music from a variety of decades 
 * Observes all genres of music and the artists at the time, particularly those off the beaten track
 * Shows how music art inspired culture at the time
 
-What are the brand's qualities? 
+## What are the brand's qualities? 
 
 * Creativity: Typetune is inspired by album cover art, illustrating the stories behind the designs  
 * Passion: every article is written with a deep rooted interest in music 
