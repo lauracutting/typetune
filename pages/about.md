@@ -32,7 +32,7 @@ What are the brand's qualities?
 
 ## The Logo
 
-The 'typetune' logo consists of a 'T' cocooned by two music notes. This gives the impression of an outline, emphasising the letter - making it easy to read from a distance. 
+The 'Typetune' logo consists of a 'T' cocooned by two music notes. This gives the impression of an outline, emphasising the letter - making it easy to read from a distance. 
 
 I have incorporated a dark colour scheme which encompasses the rich and edgy feel I want the blog to have. The red and black tones link to many of the genres of music discussed in the blog, such as punk and alternative music. The colour palette links to the branding behind many bands which aim to spread messages of rebellion, uprising and strength. 
 
